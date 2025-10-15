@@ -1,0 +1,15 @@
+C:\Users\lenovo\OneDrive\İş masası\BPA-203\06 - Methods\obj\Debug\net8.0\06 - Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\İş masası\BPA-203\06 - Methods\obj\Debug\net8.0\06 - Methods.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\İş masası\BPA-203\06 - Methods\obj\Debug\net8.0\06 - Methods.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\İş masası\BPA-203\06 - Methods\obj\Debug\net8.0\06 - Methods.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\İş masası\BPA-203\06 - Methods\obj\Debug\net8.0\06 - Methods.sourcelink.json
+C:\Users\lenovo\OneDrive\İş masası\BPA-203\06 - Methods\bin\Debug\net8.0\06 - Methods.exe
+C:\Users\lenovo\OneDrive\İş masası\BPA-203\06 - Methods\bin\Debug\net8.0\06 - Methods.deps.json
+C:\Users\lenovo\OneDrive\İş masası\BPA-203\06 - Methods\bin\Debug\net8.0\06 - Methods.runtimeconfig.json
+C:\Users\lenovo\OneDrive\İş masası\BPA-203\06 - Methods\bin\Debug\net8.0\06 - Methods.dll
+C:\Users\lenovo\OneDrive\İş masası\BPA-203\06 - Methods\bin\Debug\net8.0\06 - Methods.pdb
+C:\Users\lenovo\OneDrive\İş masası\BPA-203\06 - Methods\obj\Debug\net8.0\06 - Methods.dll
+C:\Users\lenovo\OneDrive\İş masası\BPA-203\06 - Methods\obj\Debug\net8.0\refint\06 - Methods.dll
+C:\Users\lenovo\OneDrive\İş masası\BPA-203\06 - Methods\obj\Debug\net8.0\06 - Methods.pdb
+C:\Users\lenovo\OneDrive\İş masası\BPA-203\06 - Methods\obj\Debug\net8.0\06 - Methods.genruntimeconfig.cache
+C:\Users\lenovo\OneDrive\İş masası\BPA-203\06 - Methods\obj\Debug\net8.0\ref\06 - Methods.dll
