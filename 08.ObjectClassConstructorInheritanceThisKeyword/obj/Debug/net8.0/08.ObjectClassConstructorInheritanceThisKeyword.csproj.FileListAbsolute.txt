@@ -1,0 +1,5 @@
+C:\Users\lenovo\OneDrive\İş masası\BPA-203\08.ObjectClassConstructorInheritanceThisKeyword\obj\Debug\net8.0\08.ObjectClassConstructorInheritanceThisKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\İş masası\BPA-203\08.ObjectClassConstructorInheritanceThisKeyword\obj\Debug\net8.0\08.ObjectClassConstructorInheritanceThisKeyword.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\İş masası\BPA-203\08.ObjectClassConstructorInheritanceThisKeyword\obj\Debug\net8.0\08.ObjectClassConstructorInheritanceThisKeyword.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\İş masası\BPA-203\08.ObjectClassConstructorInheritanceThisKeyword\obj\Debug\net8.0\08.ObjectClassConstructorInheritanceThisKeyword.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\İş masası\BPA-203\08.ObjectClassConstructorInheritanceThisKeyword\obj\Debug\net8.0\08.ObjectClassConstructorInheritanceThisKeyword.sourcelink.json
