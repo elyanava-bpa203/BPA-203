@@ -1,0 +1,14 @@
+C:\Users\lenovo\OneDrive\İş masası\10-AccessModifiresEncupsulationNamespace\bin\Debug\net8.0\10-AccessModifiresEncupsulationNamespace.exe
+C:\Users\lenovo\OneDrive\İş masası\10-AccessModifiresEncupsulationNamespace\bin\Debug\net8.0\10-AccessModifiresEncupsulationNamespace.deps.json
+C:\Users\lenovo\OneDrive\İş masası\10-AccessModifiresEncupsulationNamespace\bin\Debug\net8.0\10-AccessModifiresEncupsulationNamespace.runtimeconfig.json
+C:\Users\lenovo\OneDrive\İş masası\10-AccessModifiresEncupsulationNamespace\bin\Debug\net8.0\10-AccessModifiresEncupsulationNamespace.dll
+C:\Users\lenovo\OneDrive\İş masası\10-AccessModifiresEncupsulationNamespace\bin\Debug\net8.0\10-AccessModifiresEncupsulationNamespace.pdb
+C:\Users\lenovo\OneDrive\İş masası\10-AccessModifiresEncupsulationNamespace\obj\Debug\net8.0\10-AccessModifiresEncupsulationNamespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\İş masası\10-AccessModifiresEncupsulationNamespace\obj\Debug\net8.0\10-AccessModifiresEncupsulationNamespace.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\İş masası\10-AccessModifiresEncupsulationNamespace\obj\Debug\net8.0\10-AccessModifiresEncupsulationNamespace.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\İş masası\10-AccessModifiresEncupsulationNamespace\obj\Debug\net8.0\10-AccessModifiresEncupsulationNamespace.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\İş masası\10-AccessModifiresEncupsulationNamespace\obj\Debug\net8.0\10-AccessModifiresEncupsulationNamespace.dll
+C:\Users\lenovo\OneDrive\İş masası\10-AccessModifiresEncupsulationNamespace\obj\Debug\net8.0\refint\10-AccessModifiresEncupsulationNamespace.dll
+C:\Users\lenovo\OneDrive\İş masası\10-AccessModifiresEncupsulationNamespace\obj\Debug\net8.0\10-AccessModifiresEncupsulationNamespace.pdb
+C:\Users\lenovo\OneDrive\İş masası\10-AccessModifiresEncupsulationNamespace\obj\Debug\net8.0\10-AccessModifiresEncupsulationNamespace.genruntimeconfig.cache
+C:\Users\lenovo\OneDrive\İş masası\10-AccessModifiresEncupsulationNamespace\obj\Debug\net8.0\ref\10-AccessModifiresEncupsulationNamespace.dll
