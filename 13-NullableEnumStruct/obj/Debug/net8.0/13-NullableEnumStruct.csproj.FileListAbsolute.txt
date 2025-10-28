@@ -1,0 +1,14 @@
+C:\Users\lenovo\OneDrive\İş masası\13-NullableEnumStruct\bin\Debug\net8.0\13-NullableEnumStruct.exe
+C:\Users\lenovo\OneDrive\İş masası\13-NullableEnumStruct\bin\Debug\net8.0\13-NullableEnumStruct.deps.json
+C:\Users\lenovo\OneDrive\İş masası\13-NullableEnumStruct\bin\Debug\net8.0\13-NullableEnumStruct.runtimeconfig.json
+C:\Users\lenovo\OneDrive\İş masası\13-NullableEnumStruct\bin\Debug\net8.0\13-NullableEnumStruct.dll
+C:\Users\lenovo\OneDrive\İş masası\13-NullableEnumStruct\bin\Debug\net8.0\13-NullableEnumStruct.pdb
+C:\Users\lenovo\OneDrive\İş masası\13-NullableEnumStruct\obj\Debug\net8.0\13-NullableEnumStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\İş masası\13-NullableEnumStruct\obj\Debug\net8.0\13-NullableEnumStruct.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\İş masası\13-NullableEnumStruct\obj\Debug\net8.0\13-NullableEnumStruct.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\İş masası\13-NullableEnumStruct\obj\Debug\net8.0\13-NullableEnumStruct.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\İş masası\13-NullableEnumStruct\obj\Debug\net8.0\13-NullableEnumStruct.dll
+C:\Users\lenovo\OneDrive\İş masası\13-NullableEnumStruct\obj\Debug\net8.0\refint\13-NullableEnumStruct.dll
+C:\Users\lenovo\OneDrive\İş masası\13-NullableEnumStruct\obj\Debug\net8.0\13-NullableEnumStruct.pdb
+C:\Users\lenovo\OneDrive\İş masası\13-NullableEnumStruct\obj\Debug\net8.0\13-NullableEnumStruct.genruntimeconfig.cache
+C:\Users\lenovo\OneDrive\İş masası\13-NullableEnumStruct\obj\Debug\net8.0\ref\13-NullableEnumStruct.dll
