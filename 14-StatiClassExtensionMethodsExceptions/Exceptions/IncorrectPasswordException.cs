@@ -10,7 +10,7 @@ namespace _14_StatiClassExtensionMethodsExceptions.Exceptions
     {
         private static object attemptsLeft;
 
-        public int AttemptsLeft { get; set; }
+        public int AttemptsLeft { get;  }
         public IncorrectPasswordException(int attempsLeft): base($"Password yalnisdir.Qalan cehdlerin sayi: {attemptsLeft}") 
         {
             AttemptsLeft = attempsLeft;

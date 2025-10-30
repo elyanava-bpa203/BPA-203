@@ -1,38 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\14-StatiClassExtensionMethodsExceptions\\",
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\BPA-203\\14-StatiClassExtensionMethodsExceptions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\14-StatiClassExtensionMethodsExceptions\\Exceptions\\InvalidPasswordException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exceptions\\InvalidPasswordException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\14-StatiClassExtensionMethodsExceptions\\Exceptions\\IncorrectPasswordException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exceptions\\IncorrectPasswordException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\14-StatiClassExtensionMethodsExceptions\\Exceptions\\AccountLockedException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exceptions\\AccountLockedException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\14-StatiClassExtensionMethodsExceptions\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\14-StatiClassExtensionMethodsExceptions\\Exceptions\\InvalidUsernameException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exceptions\\InvalidUsernameException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\14-StatiClassExtensionMethodsExceptions\\Models\\LoginSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\BPA-203\\14-StatiClassExtensionMethodsExceptions\\Models\\LoginSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\LoginSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\14-StatiClassExtensionMethodsExceptions\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\BPA-203\\14-StatiClassExtensionMethodsExceptions\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\14-StatiClassExtensionMethodsExceptions\\Exceptions\\UserNotFoundException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\BPA-203\\14-StatiClassExtensionMethodsExceptions\\Exceptions\\UserNotFoundException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exceptions\\UserNotFoundException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\BPA-203\\14-StatiClassExtensionMethodsExceptions\\Exceptions\\InvalidPasswordException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exceptions\\InvalidPasswordException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\BPA-203\\14-StatiClassExtensionMethodsExceptions\\Exceptions\\IncorrectPasswordException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exceptions\\IncorrectPasswordException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\BPA-203\\14-StatiClassExtensionMethodsExceptions\\Exceptions\\AccountLockedException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exceptions\\AccountLockedException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\BPA-203\\14-StatiClassExtensionMethodsExceptions\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\BPA-203\\14-StatiClassExtensionMethodsExceptions\\Exceptions\\InvalidUsernameException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exceptions\\InvalidUsernameException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,28 +42,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "LoginSystem.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\14-StatiClassExtensionMethodsExceptions\\Models\\LoginSystem.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\BPA-203\\14-StatiClassExtensionMethodsExceptions\\Models\\LoginSystem.cs",
               "RelativeDocumentMoniker": "Models\\LoginSystem.cs",
-              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\14-StatiClassExtensionMethodsExceptions\\Models\\LoginSystem.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\BPA-203\\14-StatiClassExtensionMethodsExceptions\\Models\\LoginSystem.cs",
               "RelativeToolTip": "Models\\LoginSystem.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-29T22:23:48.766Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\14-StatiClassExtensionMethodsExceptions\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\BPA-203\\14-StatiClassExtensionMethodsExceptions\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\14-StatiClassExtensionMethodsExceptions\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\BPA-203\\14-StatiClassExtensionMethodsExceptions\\Models\\User.cs",
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -72,37 +72,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "AccountLockedException.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\14-StatiClassExtensionMethodsExceptions\\Exceptions\\AccountLockedException.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\BPA-203\\14-StatiClassExtensionMethodsExceptions\\Exceptions\\AccountLockedException.cs",
               "RelativeDocumentMoniker": "Exceptions\\AccountLockedException.cs",
-              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\14-StatiClassExtensionMethodsExceptions\\Exceptions\\AccountLockedException.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\BPA-203\\14-StatiClassExtensionMethodsExceptions\\Exceptions\\AccountLockedException.cs",
               "RelativeToolTip": "Exceptions\\AccountLockedException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-29T22:22:24.587Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "IncorrectPasswordException.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\14-StatiClassExtensionMethodsExceptions\\Exceptions\\IncorrectPasswordException.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\BPA-203\\14-StatiClassExtensionMethodsExceptions\\Exceptions\\IncorrectPasswordException.cs",
               "RelativeDocumentMoniker": "Exceptions\\IncorrectPasswordException.cs",
-              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\14-StatiClassExtensionMethodsExceptions\\Exceptions\\IncorrectPasswordException.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\BPA-203\\14-StatiClassExtensionMethodsExceptions\\Exceptions\\IncorrectPasswordException.cs",
               "RelativeToolTip": "Exceptions\\IncorrectPasswordException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-29T22:21:05.986Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "InvalidPasswordException.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\14-StatiClassExtensionMethodsExceptions\\Exceptions\\InvalidPasswordException.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\BPA-203\\14-StatiClassExtensionMethodsExceptions\\Exceptions\\InvalidPasswordException.cs",
               "RelativeDocumentMoniker": "Exceptions\\InvalidPasswordException.cs",
-              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\14-StatiClassExtensionMethodsExceptions\\Exceptions\\InvalidPasswordException.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\BPA-203\\14-StatiClassExtensionMethodsExceptions\\Exceptions\\InvalidPasswordException.cs",
               "RelativeToolTip": "Exceptions\\InvalidPasswordException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -111,37 +111,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "UserNotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\14-StatiClassExtensionMethodsExceptions\\Exceptions\\UserNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\BPA-203\\14-StatiClassExtensionMethodsExceptions\\Exceptions\\UserNotFoundException.cs",
               "RelativeDocumentMoniker": "Exceptions\\UserNotFoundException.cs",
-              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\14-StatiClassExtensionMethodsExceptions\\Exceptions\\UserNotFoundException.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\BPA-203\\14-StatiClassExtensionMethodsExceptions\\Exceptions\\UserNotFoundException.cs",
               "RelativeToolTip": "Exceptions\\UserNotFoundException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-29T22:20:47.6Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "InvalidUsernameException.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\14-StatiClassExtensionMethodsExceptions\\Exceptions\\InvalidUsernameException.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\BPA-203\\14-StatiClassExtensionMethodsExceptions\\Exceptions\\InvalidUsernameException.cs",
               "RelativeDocumentMoniker": "Exceptions\\InvalidUsernameException.cs",
-              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\14-StatiClassExtensionMethodsExceptions\\Exceptions\\InvalidUsernameException.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\BPA-203\\14-StatiClassExtensionMethodsExceptions\\Exceptions\\InvalidUsernameException.cs",
               "RelativeToolTip": "Exceptions\\InvalidUsernameException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T22:19:56.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T22:19:56.43Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\14-StatiClassExtensionMethodsExceptions\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\BPA-203\\14-StatiClassExtensionMethodsExceptions\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\14-StatiClassExtensionMethodsExceptions\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\\u0130\u015F masas\u0131\\BPA-203\\14-StatiClassExtensionMethodsExceptions\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

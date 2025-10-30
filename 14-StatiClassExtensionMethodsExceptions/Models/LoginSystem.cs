@@ -9,16 +9,22 @@ namespace _14_StatiClassExtensionMethodsExceptions.Models
     public class LoginSystem
     {
         private User[] users;
-        private const int MaxAttemots = 3;
+        private const int MaxAttempts = 3;
 
         public LoginSystem()
         {
-            new User("admin", "admin123"),
-            new User("student", "student 123"),
-            new User("teacher", "teacher123")
+            users = new User[]
+            {
+                new User("admin", "admin123"),
+                new User("student", "student 123"),
+                new User("teacher", "teacher123")
+
+            };
 
 
-        };
+
+
+        }
 
     }
          public void ValidateUsernamw(string username)
@@ -33,12 +39,12 @@ namespace _14_StatiClassExtensionMethodsExceptions.Models
             if (string.IsNullOrWhiteSpace(password) && password.Length < 6)
                 throw new InvalidPasswordException();
         }
-        private User FindUser(string username) 
+        private User FindUser(string username)
         {
-            for (int i = 0; i < User.Length; i++) 
+            for (int i = 0; i < User.Length; i++)
             {
-                if (Users[i].Username.ToLower() == username.ToLower()) 
-                
+                if (Users[i].Username.ToLower() == username.ToLower())
+
                 {
                     return users[i];
                 }
@@ -59,23 +65,24 @@ namespace _14_StatiClassExtensionMethodsExceptions.Models
             if (user.Password == password)
             {
                 user.FailedAttempts++;
-                Console.WriteLine($""Login successful! Welcome, { username} !");
+                Console.WriteLine($""Login successful! Welcome, { username}
+                !");
             }
-            else 
+            else
             {
                 user.FailedAttempts++;
                 int attemptLeft()= MaxAttempt - user.FailedAttempts;
 
                 if (attemptsLeft > 0)
                     throw new IncorrectPasswordException(attemptsLeft);
-                else 
+                else
                 {
                     user.IsLocked = true;
                     throw new AccountLockedException();
 
-                
+
                 }
-            
+
             }
         }
         internal void ShowUsers() { }

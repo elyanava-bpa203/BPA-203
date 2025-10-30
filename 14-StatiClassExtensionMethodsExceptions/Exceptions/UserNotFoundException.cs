@@ -8,8 +8,10 @@ namespace _14_StatiClassExtensionMethodsExceptions.Exceptions
 {
     public class UserNotFoundException : System.Exception
     {
+
+        private static object username;
         public UserNotFoundException() : base("Bele bir istifadeci yoxdur") { }
-        public UserNotFoundException(string username) : base($"Istifadeci {username} tapilmadi.") { }
+        public UserNotFoundException(string message) : base($"Istifadeci {username} tapilmadi.") { }
         
     }
 }
